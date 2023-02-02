@@ -18,11 +18,13 @@ body{
     margin: 1rem auto;
 }
 img{
-    height: 100px;
-    width: 100px;
-    border-style: dashed;
     border-radius: 10px;
-    border-color: orange;
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    background-position: center;
+    margin: auto;
+    outline: 7px dashed #ffa500;
 }
 #scroll{
     height: 200px;
